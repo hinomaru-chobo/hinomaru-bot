@@ -1,3 +1,4 @@
+// ヒノマル帳簿：デプロイ用テストコメント
 const express = require('express');
 const line = require('@line/bot-sdk');
 
